@@ -6,7 +6,7 @@ A beginner-friendly workshop for the meekly curious.
 #### A microcontroller includes three main components: processor, memory, and input/output.
 
 
-#### What can you do with a microprocessor?
+#### What can you do with a microcontroller?
 
 <img src="https://lh5.googleusercontent.com/MoZTWYqeXCXPxxJSTU-itcAb25u2k8WHze-Gt9O0WEdT42MgIyQfebRGEhPLUEEn3CwO5_h36JI5pbGTqBTw-jtlHUQWccfkoL4l0ScXB8NDBdEEDgdWF0kbzq1rd_clFXAesTDW" alt="https://soomipark.com/main/wp-content/uploads/2011/12/soomiPARK_LED-Eyelash_02-copy.jpg" width="200"/><img src="https://lh6.googleusercontent.com/7qZ-NdyR3ff1M8Z9DhinE4HtYWSkotT0cthUjuSEcOeRyxEQ4x2ntXxy3WVyp4qoleEbRpzmcwTpUUBNJvk7qp7XCZDM19ykoxizKH3dvJD33JY7FTGKs1GUpA0QGHvU5sHe_IpP" alt="https://makezine.com/projects/led-matrix-handbag" width="200"/><img src="https://lh4.googleusercontent.com/CoBzl8XnT12sBe2KQMdbl17S2RXZCBdqxqsluWJzFQFaKjSeXrMGIyZDhMjFQ9-s7C2QX2ecRwOFhB1itmgjCsCGtY0ycpdr3wzkhYAZIXeP5TIGn5F2aEr7RGfdwL1seZ6JsJxi" alt="https://learn.adafruit.com/firewalker-led-sneakers/sew-sensors-to-flora" width="200"/><img src="https://lh4.googleusercontent.com/DWjoJK06fbHwwLScadQzmGMhQuCUySTaW3KW3CbhjZlbW2wMlNkl7Ed4C_mKPnoNi3DSXSuTqdBBJ67-9oEgqRm5f_FS_EiSzdspN6t0UHzlNL4Ay-G8Mv-VsHDYMZR0a-PEoE6G" alt="http://www.kobakant.at/DIY/?p=6730" width="200"/>
 
