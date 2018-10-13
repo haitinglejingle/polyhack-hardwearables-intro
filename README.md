@@ -1,7 +1,7 @@
 ## Introduction to HardWearables — POLYHACK 2018
 A beginner-friendly workshop for the meekly curious.
 
-## INTRO.
+## Intro.
 
 #### A microcontroller includes three main components: processor, memory, and input/output.
 
