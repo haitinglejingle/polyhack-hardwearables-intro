@@ -24,8 +24,8 @@ Hardware:
 1x Gemma 2.0 Wearable Platform    
 1x Mini-USB to USB  
 electrical wire(s) with stripped ends OR alligator clips  
-1x breadboard (optional)
-1x small piece of conductive fabric (or other sensor)
+1x breadboard (optional)  
+1x small piece of conductive fabric (or other sensor; we used EKG electrodes)
 
 ## First.
 
@@ -51,8 +51,8 @@ Let's upload a sketch onto our wearables microcontroller platform.
 
 -   Download the file in this Github repository called "simple_io.ino".
 -   From the Arduino IDE, open the file "simple_io.ino". Verify the sketch using the check mark button in the top left corner.  
--   Now, notice the arrow button to the right of the check mark. That uploads code onto the board. Go to your Gemma and press the reset button two times with a second in between, trying that until it flashes rapidly. While it does that, upload your sketch. If it stops, try again. This is bootloader mode, which enables us to upload to the board.
-
+-   Now, notice the arrow button to the right of the check mark. That uploads code onto the board.   
+Go to your Gemma and press the reset button two times with a second in between, trying that until it flashes rapidly. While it does that, upload your sketch. If it stops, try again. This is bootloader mode, which enables us to upload to the board.   
 - After uploading your code, let's do a quick test! Put your fingers around the D0 pin. A red LED should come on when you are touching it.
 
 ## Third.
